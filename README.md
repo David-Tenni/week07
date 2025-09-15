@@ -38,7 +38,7 @@ Your GitHub Actions workflow will need credentials to interact with Azure and AC
 
   ```json
   {
-    "clientId": "<Client ID>",
+    "clientId": "<Client ID>", I AM STORING THESE IN WORD
     "clientSecret": "<Client Secret>",
     "subscriptionId": "<Subscription ID>",
     "tenantId": "<Tenant ID>"
